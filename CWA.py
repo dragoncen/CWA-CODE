@@ -1,6 +1,3 @@
-##name = input("Enter your name>>")
-##print(f"Hi {name}!")
-##howdy= input("How are you doing?")
 #this code makes use of nested lists
 no_of_subjects = int(input("How many courses do your offer>>"))
 marks_andcredit_hours =[]
